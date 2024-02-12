@@ -3,9 +3,9 @@
 The code itself is nothing more than what you get when doing `cabal init`. The purpose of this template is to provide the development environment on top. This consists of:
 
 - `ghcup` (the main installer for Haskell).
-- `ghc` (the Haskell compiler) version 9.2.5.
-- `cabal-install` and Cabal library (a build tool for Haskell) version 3.6.2.0.
-- `haskell-language-server` version 1.9.1.0
+- `ghc` (the Haskell compiler) version `9.6.3`.
+- `cabal-install` and Cabal library (a build tool for Haskell) version `3.10`.
+- `haskell-language-server` version `2.5.0.0`.
 - `stylish-haskell` formatter.
 
 You have two ways of using this development environment (If you already have the previous tools installed in your system, you can ignore this):
