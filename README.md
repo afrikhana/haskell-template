@@ -4,7 +4,7 @@ The code itself is nothing more than what you get when doing `cabal init`. The p
 
 - `ghcup` (the main installer for Haskell).
 - `ghc` (the Haskell compiler) version `9.6.3`.
-- `cabal-install` and Cabal library (a build tool for Haskell) version `3.10`.
+- `cabal-install` and Cabal library (a build tool for Haskell) version `3.10.2.1`.
 - `haskell-language-server` version `2.5.0.0`.
 - `stylish-haskell` formatter.
 
