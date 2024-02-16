@@ -1,6 +1,10 @@
-module Main where
+-- module Main where
 
-import           MyLib (someFunc)
+-- import           MyLib (someFunc)
 
-main :: IO ()
-main = someFunc
+-- main :: IO ()
+-- main = do
+--     let result = multiplyBy3 5
+--     print result
+
+
